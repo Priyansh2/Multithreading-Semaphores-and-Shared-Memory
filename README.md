@@ -1,2 +1,2 @@
-# OS-Threading Problems 
-Solutions of given OS-Threading problems are implemented. Look at `OSAssignment4.pdf` for more details. 
+# OS Multithreading-Semaphores and Shared-Memory 
+Solutions of given OS Multithreading-Semaphores and Shared-Memory problems are implemented. Look at `OSAssignment4.pdf` for more details. 
